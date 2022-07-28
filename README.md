@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradiptamegantara
-- 👀 I’m interested in Data Science & Full Stack Web Development
+- 👀 I’m interested in Data Science & Full Stack Development
 - 🌱 I’m currently learning Go, JavaScript, Python, Redis, PostgreSQL, MongoDB
 - 📫 How to reach me pradiptamegantara@yahoo.com
 
