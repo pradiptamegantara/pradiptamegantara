@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradiptamegantara
 - 👀 I’m interested in Data Science & Full Stack Development
 - 🌱 I’m currently learning Go, JavaScript, Python, Redis, PostgreSQL, MongoDB
-- 📫 How to reach me pradiptamegantara@yahoo.com
+- 📫 How to reach me pradipta.megantara@sinarmasmining.com
 
 <!---
 pradiptamegantara/pradiptamegantara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
